@@ -3,7 +3,7 @@
 Soy Esteban Palomar Murcia, una persona con ganas de seguir aprendiendo en el desarrollo de software. Aunque ya estoy un poco familiarizado con el tema, actualmente estoy adquiriendo todos los conocimientos necesarios para fortalecerme y mejorar en el desarrollo de software. Estoy dispuesto a dar todo mi esfuerzo y dedicación para alcanzar dicho objetivo. Espero, a lo largo de este trayecto, poder desarrollar nuevas habilidades y adquirir una muy buena experiencia que me beneficien en el futuro.
 ## Educación 📚
 - Bachiller Técnico en Desarrollo de Software
-## Proyectos 
+## Proyectos ⚡
 Durante la etapa práctica del técnico en desarrollo de software con el SENA, realicé un proyecto en compañía con otro estudiante en la empresa "Fonda Los Arrieros Neiva SAS", donde desarrollamos una página web que consistía en la carta virtual de la empresa. Utilizamos:
 - HTML
 - CSS
